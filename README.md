@@ -53,4 +53,4 @@ The Clean Architecture with CQRS Pattern consists of the following layers:
 
 ## License
 
-This project is licensed under the MIT License - see the [License.md](License.md) file for details.
+This project is licensed under the MIT License - see the [License.md](License.txt) file for details.
